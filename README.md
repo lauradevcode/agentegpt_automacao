@@ -30,9 +30,8 @@ IA adaptada por persona e nicho de mercado
 Atende 24h por palavra-chave, garantindo presença e agilidade
 
 
-🔹 PÚBLICO-ALVO, DOR E FOCO
+🎯 PÚBLICO-ALVO, DOR E FOCO
 
- 🎯 Público-Alvo:
  
 Infoprodutores – Respostas rápidas a dúvidas frequentes, suporte a alunos, envio automático de links de checkout e materiais.
 
