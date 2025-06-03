@@ -1,4 +1,4 @@
-# ![AgentGPT Banner](./assets/capa-agentgpt.png)
+# ![AgentGPT Banner](./img/capa-agentgpt.png)
 
 # 🚀 AgentGPT Landing Page
 
